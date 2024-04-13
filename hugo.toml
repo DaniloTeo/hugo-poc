@@ -1,0 +1,4 @@
+baseURL = 'https://teste-do-dan.com/'
+languageCode = 'pt-br'
+title = 'TESTE TESTE TESTE'
+theme = 'ananke'
